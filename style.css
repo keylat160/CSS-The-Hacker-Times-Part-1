@@ -36,10 +36,12 @@ h2{
 }
 h4{
     font-family: "Roboto Slab";
-
+     
 }
 h5{
     color:#dd3232;
+    padding-left: 1em;
+    font-family: "Roboto Slab";
 }
 .computer{
    width: 80%;
